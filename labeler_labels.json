@@ -3,78 +3,78 @@
 		{
 			"name": "Status: Ready",
 			"description": "Ready for review",
-			"color": "#0e8a16"
+			"color": "0e8a16"
 		},
 		{
 			"name": "Status: Blocked",
 			"description": "",
-			"color": "#FC8264"
+			"color": "FC8264"
 		},
 		{
 			"name": "Status: In Progress",
 			"description": "",
-			"color": "#EAE435"
+			"color": "EAE435"
 		},
 		{
 			"name": "Type: Question",
 			"description": "",
-			"color": "#FF6DD9"
+			"color": "FF6DD9"
 		},
 		{
 			"name": "Type: Feature",
 			"description": "Requested: New feature or feature improvement",
-			"color": "#6DFF6D"
+			"color": "6DFF6D"
 		},
 		{
 			"name": "Type: Bug",
 			"description": "",
-			"color": "#ff2222"
+			"color": "ff2222"
 		},
 		{
 			"name": "Type: Documentation",
 			"description": "Readme, manuals, wikis, guides",
-			"color": "#BABABA"
+			"color": "BABABA"
 		},
 		{
 			"name": "Type: Refactor",
 			"description": "",
-			"color": "#BABABA"
+			"color": "BABABA"
 		},
 		{
 			"name": "Type: DevOps",
 			"description": "Setting up of DevOps processes e.g. GitHub Actions, Azure DevOps Pipelines etc",
-			"color": "#1d76db"
+			"color": "1d76db"
 		},
 		{
 			"name": "Priority: High",
 			"description": "",
-			"color": "#FF7922"
+			"color": "FF7922"
 		},
 		{
 			"name": "Priority: Medium",
 			"description": "",
-			"color": "#fbca04"
+			"color": "fbca04"
 		},
 		{
 			"name": "Priority: Low",
 			"description": "",
-			"color": "#c2e0c6"
+			"color": "c2e0c6"
 		},
 		{
 			"name": "Area: Backend",
 			"description": "",
-			"color": "#5319e7"
+			"color": "5319e7"
 		},
 		{
 			"name": "Area: Frontend",
 			"description": "",
-			"color": "#AC97F2"
+			"color": "AC97F2"
 		},
 		{
 			"name": "Area: Embedded",
 			"description": "",
-			"color": "#AC97F2"
-		},
+			"color": "AC97F2"
+		}
 
 	]
 }
