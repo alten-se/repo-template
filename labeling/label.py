@@ -1,11 +1,21 @@
 import shutil
 import os
 import subprocess as sub
+import sys
+
+def bash_cmd(cmd):
+    proc = sub.Popen(['bash', "-i", "-c", cmd])
+    proc.communicate()
+    exit_code = proc.wait()
+    print(exit_code)
+    if exit_code != 0:
+        sys.exit("Derp!")
+
 
 
 def install_labelerjs():
-    os.system("nvm latest")
-    os.system("npm install labeler")
+    bash_cmd("nvm use 18")
+    bash_cmd("npm install labeler")
 
 
 def get_labels_path() -> str:
