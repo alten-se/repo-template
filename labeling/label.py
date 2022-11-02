@@ -38,4 +38,3 @@ if __name__ == "__main__":
         configure_label_maker()
     
     add_labels("labeler_labels.json")
-,
