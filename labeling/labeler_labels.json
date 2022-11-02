@@ -1,21 +1,6 @@
 {
 	"labels": [
 		{
-			"name": "Status: Ready",
-			"description": "Ready for review",
-			"color": "75ad5b"
-		},
-		{
-			"name": "Status: Blocked",
-			"description": "",
-			"color": "9E978E"
-		},
-		{
-			"name": "Status: In Progress",
-			"description": "",
-			"color": "EAE435"
-		},
-		{
 			"name": "Type: Question",
 			"description": "",
 			"color": "88ffcc"
