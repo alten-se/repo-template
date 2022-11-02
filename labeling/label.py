@@ -17,7 +17,7 @@ def get_labels_path() -> str:
 def configure_label_maker():
     os.system("labeler -c")
 
-def add_labels(path: ,str):
+def add_labels(path: str):
     repo_name = input("repo name: ")
     label_conf_path = get_labels_path()
     shutil.copyfile(path, label_conf_path)
