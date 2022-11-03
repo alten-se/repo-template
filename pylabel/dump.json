@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Area: Backend",
+    "color": "#191970",
+    "description": ""
+  },
+  {
+    "name": "Area: Embedded",
+    "color": "#191970",
+    "description": ""
+  },
+  {
+    "name": "Area: Frontend",
+    "color": "#191970",
+    "description": ""
+  },
+  {
+    "name": "Priority: High",
+    "color": "#ff4000",
+    "description": ""
+  },
+  {
+    "name": "Priority: Low",
+    "color": "#fffb00",
+    "description": ""
+  },
+  {
+    "name": "Priority: Medium",
+    "color": "#ffa600",
+    "description": ""
+  },
+  {
+    "name": "Type: Bug",
+    "color": "#bb1133",
+    "description": ""
+  },
+  {
+    "name": "Type: DevOps",
+    "color": "#88ffcc",
+    "description": "Setting up of DevOps processes e.g. GitHub Actions, Azure DevOps Pipelines etc"
+  },
+  {
+    "name": "Type: Documentation",
+    "color": "#88ffcc",
+    "description": "Readme, manuals, wikis, guides"
+  },
+  {
+    "name": "Type: Feature",
+    "color": "#88ffcc",
+    "description": "Requested: New feature or feature improvement"
+  },
+  {
+    "name": "Type: Question",
+    "color": "#88ffcc",
+    "description": ""
+  },
+  {
+    "name": "Type: Refactor",
+    "color": "#88ffcc",
+    "description": ""
+  }
+]
