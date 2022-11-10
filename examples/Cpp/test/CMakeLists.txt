@@ -6,10 +6,10 @@ set(Sources
     ExampleTests.cpp
 )
 
-add_executable(Example Example.cpp)
+add_executable(${This} ${Sources})
 target_link_libraries(${This} PUBLIC
     gtest_main
-   
+    Example
 )
 
 

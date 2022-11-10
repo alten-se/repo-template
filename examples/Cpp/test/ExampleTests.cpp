@@ -1,33 +1,25 @@
+#include "../Example.hpp"
+
 #include <gtest/gtest.h>
-#include "Example"
 
-TEST(ExampleTests, DemonstrateGTestMacros)
+TEST(ExampleTests, EMacTest   )//multiply and accumulate test 
 
 {
-    EXPECT_EQ(true, true);
-    const bool result = f();
-    EXPECT_EQ(true, result)<< "Hello world";
-
+int x = 42;
+int y = 16;
+int sum = 100; 
+int oldsum = sum; 
+int expectedNewSum = oldsum + x*y; 
+EXPECT_EQ(
+    expectedNewSum,
+    MAC(x,y,sum)
+);
+EXPECT_EQ(
+    expectedNewSum,
+    sum
+);
 
 }
 
-TEST(ExampleTests, DemonstrateGTestMacros2)
 
-{
-    EXPECT_EQ(true, false);
-    const bool result = f();
-    EXPECT_EQ(true, result)<< "Hello world";
-
-
-}
-
-TEST(ExampleTests, DemonstrateGTestMacros3)
-
-{
-    EXPECT_EQ(true, true);
-    const bool result = f();
-    EXPECT_EQ(true, result)<< "Hello world";
-
-
-}
 
