@@ -14,7 +14,7 @@ TEST(ExampleTests, DemonstrateGTestMacros)
 TEST(ExampleTests, DemonstrateGTestMacros2)
 
 {
-    EXPECT_EQ(true, true);
+    EXPECT_EQ(true, false);
     const bool result = f();
     EXPECT_EQ(true, result)<< "Hello world";
 
