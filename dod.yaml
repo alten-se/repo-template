@@ -1,0 +1,9 @@
+# Definition of done
+
+dod:
+  - 'meets code style guide'
+  - 'api documention'
+  - 'test code coverage'
+  - 'gui inspected'
+  -   '➡️ has Before/after screenshots'
+  - 'code peer review' 
