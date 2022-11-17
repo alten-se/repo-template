@@ -1,5 +1,7 @@
 name: auto cancellation running job
-on: pull_request
+on:
+  pull_request:
+    types: [opened, edited]
 
 jobs:
   cancel:
