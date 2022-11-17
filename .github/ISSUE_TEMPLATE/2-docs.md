@@ -16,9 +16,9 @@ assignees: ''
 
 Cc:
 
-<!-- add intended user next to **Hi** -->
+<!-- Replace <doc reader> documentaion target audiance-->
 
-Hi 
+Hi reader
 
 ### Pain
 
@@ -28,12 +28,6 @@ Hi
 
 <!-- Short summary of the documentation that should be added -->
 
-### Tasks
-
-<!--Add GitHub tasks--> 
-
-- [ ]  ...
-- [ ]  ...
 
 ### More Information
 
@@ -43,4 +37,9 @@ Hi
 
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-Thanks!
+### Tasks
+
+<!--Add GitHub tasks--> 
+
+- [ ]  ...
+- [ ]  ...

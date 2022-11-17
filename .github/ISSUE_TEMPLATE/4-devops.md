@@ -25,25 +25,12 @@ Hi
 ### Suggested Solution
 <!-- Describe the solution you'd like -->
 
-### Definition of done
-
-- [ ] meets code style guide
-- [ ] api is documented
-- [ ] test code written
-- [ ] gui inspected
-  - [ ] Before/after screenshots
-- [ ] peer review code
-- [ ] passing tests
-  - [ ] style check
-  - [ ] static analysis 
-  - [ ] test functions
-
 ### Screenshots
 <!-- If applicable, add screenshots to help explain your problem. -->
 
 ---
 
-## Developer Tasks
+## Tasks
 <!-- Add GitHub tasks -->
 
 - [ ] step1

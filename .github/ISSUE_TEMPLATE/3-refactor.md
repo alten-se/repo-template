@@ -31,18 +31,6 @@ Hi
 
 <!-- Add any other context here. -->
 
-### Definition of done
-
-- [ ] meets code style guide
-- [ ] api is documented
-- [ ] test code written
-- [ ] gui inspected
-  - [ ] Before/after screenshots
-- [ ] peer review code
-- [ ] passing tests
-  - [ ] style check
-  - [ ] static analysis 
-  - [ ] test functions
 
 ### Screenshots
 
@@ -50,7 +38,7 @@ Hi
 
 ---
 
-## Developer Tasks
+## Tasks
 
 <!--Add GitHub tasks -->
 
