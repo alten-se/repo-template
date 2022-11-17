@@ -16,7 +16,7 @@ assignees: ''
 
 Cc:
 
-<!-- Replace <doc reader> documentaion target audiance-->
+<!-- Replace reader with target audiance-->
 
 Hi reader
 
