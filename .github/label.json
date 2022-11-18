@@ -36,27 +36,27 @@
   },
   {
     "name": "Type: DevOps",
-    "color": "#88ffcc",
+    "color": "#65e77c",
     "description": "Setting up of DevOps processes e.g. GitHub Actions, Azure DevOps Pipelines etc"
   },
   {
     "name": "Type: Documentation",
-    "color": "#88ffcc",
+    "color": "#65e77c",
     "description": "Readme, manuals, wikis, guides"
   },
   {
     "name": "Type: Feature",
-    "color": "#88ffcc",
+    "color": "#65e77c",
     "description": "Requested: New feature or feature improvement"
   },
   {
     "name": "Type: Question",
-    "color": "#88ffcc",
+    "color": "#65e77c",
     "description": ""
   },
   {
     "name": "Type: Refactor",
-    "color": "#88ffcc",
+    "color": "#65e77c",
     "description": ""
   }
 ]
