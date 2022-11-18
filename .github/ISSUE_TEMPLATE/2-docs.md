@@ -37,9 +37,4 @@ Hi reader
 
 <!-- If applicable, add screenshots to help explain your problem. -->
 
-### Tasks
-
-<!--Add GitHub tasks--> 
-
-- [ ]  ...
-- [ ]  ...
+---
