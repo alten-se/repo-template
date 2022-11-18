@@ -34,8 +34,3 @@ so i can ...
 
 ---
 
-##  Tasks
-<!--Add GitHub tasks -->
-
-- [ ] step1
-- [ ] ...
